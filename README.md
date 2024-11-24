@@ -2,7 +2,7 @@
 
 # Transforming Healthcare: A Deep Dive into Our Hospital's Waitlist Dashboard
 
-As a healthcare data analyst, I'm excited to share insights from our recently developed hospital waitlist dashboard. This Power BI project transforms complex data into actionable insights, showcasing the power of data visualization in healthcare management.
+The Hospital Waitlist Dashboard is an interactive Power BI project designed to visualize and analyze patient waitlist data. This dashboard provides healthcare administrators with actionable insights to improve patient care and resource allocation.
 
 ## The Current Landscape
 
@@ -54,8 +54,3 @@ The dashboard demonstrates proficiency in:
 - Tooltip customization
 - Comparative analysis (average vs. median)
 
-## Call to Action
-
-What are your thoughts on these findings? How can we use this information to drive positive change in our hospital? Let's discuss how we can leverage data analytics to revolutionize healthcare management and improve patient outcomes.
-
-#PowerBI #HealthcareAnalytics #DataVisualization #WaitlistManagement
