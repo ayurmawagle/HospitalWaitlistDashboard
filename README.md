@@ -16,7 +16,7 @@ Our analysis reveals a significant increase in our waitlist:
 - Previous year: 640,000 patients
 - Year-over-year increase: 10.8%
 
-This growth underscores the increasing demand for our services and the need for strategic planning.
+This growth underscores the increasing demand for hospital services and the need for strategic planning.
 
 ## Key Insights from Our Interactive Dashboard
 
