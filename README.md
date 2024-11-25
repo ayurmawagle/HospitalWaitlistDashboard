@@ -4,7 +4,10 @@
 
 
 The Hospital Waitlist Dashboard is an interactive Power BI project designed to visualize and analyze patient waitlist data. This dashboard provides healthcare administrators with actionable insights to improve patient care and resource allocation.
+
 ![Screenshot 2024-11-24 154231](https://github.com/user-attachments/assets/697c62fe-1f3f-42b7-82d5-902f86419980)
+
+
 ![Screenshot 2024-11-24 154325](https://github.com/user-attachments/assets/bcd6bf37-4097-48f6-9ddf-7a9e031403b4)
 
 
@@ -58,4 +61,5 @@ The dashboard demonstrates proficiency in:
 - Complex DAX measures
 - Tooltip customization
 - Comparative analysis (average vs. median)
+
 
